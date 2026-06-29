@@ -1,4 +1,4 @@
-## Aspiring Generative AI Engineer passionate about building production-ready AI applications using LLMs, Retrieval-Augmented Generation (RAG), and Machine Learning.
+Aspiring Generative AI Engineer passionate about building production-ready AI applications using LLMs, Retrieval-Augmented Generation (RAG), and Machine Learning.
 
 ## 👋 About Me
 
